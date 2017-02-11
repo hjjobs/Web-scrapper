@@ -1,0 +1,12 @@
+{
+  "name"         : "node-web-scraper",
+  "version"      : "0.0.1",
+  "description"  : "Scrapping the web.",
+  "main"         : "server.js",
+  "author"       : "hjjobs",
+  "dependencies" : {
+    "express"    : "*",
+    "request"    : "*",
+    "cheerio"    : "*"
+  }
+}
